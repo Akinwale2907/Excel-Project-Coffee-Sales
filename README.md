@@ -1,7 +1,4 @@
-## Excel-Project-Coffee-Sales Dashboard
-
- 
-
+## Excel-Project-Coffee-Sales
 ![Coffee Sales](https://github.com/user-attachments/assets/9e0a643a-2ebc-4eb1-8ff0-848b55e27fb3)
 ## Project Walkthrough
 - XLOOKUP
