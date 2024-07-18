@@ -14,6 +14,7 @@
 - Insert Slicers + Formatting
 - Updating the Pivot Table Data Source
 - Building the Dashboard
+## Data Visualization
 <img width="848" alt="Coffee Sales Analytics2" src="https://github.com/user-attachments/assets/2618a3c7-721b-462f-ab2a-b5a8643c1dbc">
 
 
